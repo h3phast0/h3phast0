@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Rider" width="26px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AVisual_Studio_Icon_2019.svg&psig=AOvVaw0o106lhpINIuM86H-gBYcU&ust=1641456998004000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOC2ov2VmvUCFQAAAAAdAAAAABAD" />
+<img align="left" alt="Visual Studio" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
