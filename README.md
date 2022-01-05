@@ -1,7 +1,7 @@
-### Hi there, Lukas - aka [h3phast0][website] 👋 
+### Hi there, I am Lukas - aka [h3phast0][website] 👋 
 
-[![Website](https://img.shields.io/website?label=h3phast0.com&style=for-the-badge&url=https%3A%2F%2Fh3phast0.com)](https://www.lukaskohout.cy)
-[![Twitter Follow](https://img.shields.io/twitter/follow/h3phast0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kohyyz)
+[![Website](https://img.shields.io/website?label=www.lukaskohout.cz&style=for-the-badge&url=https%3A%2F%2Fwww.lukaskohout.cz)](https://www.lukaskohout.cz)
+[![Twitter Follow](https://img.shields.io/twitter/follow/kohyyz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kohyyz)
 
 ## I'm a Husband, Father, Architect, and Teacher!!
 
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="h3phast0.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="www.lukaskohout.cz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="h3phast0 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="h3phast0 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="h3phast0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -51,11 +51,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/h3phast0/video-source-code-create-nft-collection/issues/15) in [h3phast0/video-source-code-create-nft-collection](https://github.com/h3phast0/video-source-code-create-nft-collection)
-2. 🗣 Commented on [#15](https://github.com/h3phast0/video-source-code-create-nft-collection/issues/15) in [h3phast0/video-source-code-create-nft-collection](https://github.com/h3phast0/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#13](https://github.com/h3phast0/video-source-code-create-nft-collection/issues/13) in [h3phast0/video-source-code-create-nft-collection](https://github.com/h3phast0/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#13](https://github.com/h3phast0/video-source-code-create-nft-collection/issues/13) in [h3phast0/video-source-code-create-nft-collection](https://github.com/h3phast0/video-source-code-create-nft-collection)
-5. 🗣 Commented on [#12](https://github.com/h3phast0/video-source-code-create-nft-collection/issues/12) in [h3phast0/video-source-code-create-nft-collection](https://github.com/h3phast0/video-source-code-create-nft-collection)
+
 <!--END_SECTION:activity-->
 
 </details>
@@ -67,6 +63,6 @@
 
 </details>
 
-[website]: https://www.lukaskohout.cy
+[website]: https://www.lukaskohout.cz
 [twitter]: https://twitter.com/kohyyz
 [linkedin]: https://www.linkedin.com/in/luk%C3%A1%C5%A1-kohout-73789b51/
