@@ -1,4 +1,4 @@
-### Hi there, I am Lukas - aka [h3phast0][website] 👋 
+### Hi there, I am Lukas 👋 
 
 [![Website](https://img.shields.io/website?label=www.lukaskohout.cz&style=for-the-badge&url=https%3A%2F%2Fwww.lukaskohout.cz)](https://www.lukaskohout.cz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kohyyz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kohyyz)
